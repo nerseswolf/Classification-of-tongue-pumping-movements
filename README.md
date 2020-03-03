@@ -1,7 +1,7 @@
 # Machine Learning
 ## The aim of the project is to classify tongue pumping movements.
 
-The data are available in the file pumpFeatures.xlsx.
+The data are available in the file _`pumpFeatures.xlsx`_.
 
 ### Features:
 
@@ -37,3 +37,5 @@ The data are available in the file pumpFeatures.xlsx.
 3. Training of the classifier (Scaling of data, Split data set into training and test data, Optimization of the cost function, Determination of the free parameters of the model)
 
 5. Evaluation of the classifier (sensitivity, specificity, pressure, F-score, accuracy etc. )
+
+The graphical representation is shown in the file _`visualizeData.ipynb`_ and the classification was made in the file _`classifyPumps.ipynb`_.
